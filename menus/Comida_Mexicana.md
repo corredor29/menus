@@ -18,3 +18,24 @@ Un platillo festivo, tradicionalmente servido en septiembre, que consiste en chi
 Originaria de Yucatán, se trata de carne de cerdo marinada en achiote y jugo de naranja, envuelta en hojas de plátano y cocida lentamente. 
 - **Pozole**:
 Un caldo de maíz con carne, generalmente cerdo o pollo, y acompañado de lechuga, rábanos, cebolla, limón y chile. 
+
+## Bebidas Recomendadas
+
+- **Tequila**:
+Destilado de agave azul, originario de Jalisco, México. Se puede disfrutar solo, con sal y limón, o en cócteles como la Margarita o la Paloma. 
+- **Mezcal**:
+Otro destilado de agave, pero de diversas variedades. Destaca por su sabor ahumado, ideal para acompañar carnes a la parrilla. 
+- **Cerveza:**
+México produce una gran variedad de cervezas, desde las clásicas hasta las artesanales, ideales para acompañar botanas o comidas. 
+- **Michelada:**
+Cóctel a base de cerveza, jugo de limón, salsas, especias y sal. También existe la Michelada con Clamato, que incluye jugo de tomate y almejas. 
+- **Rompope:**
+Un ponche de huevo mexicano, similar al Advocaat holandés, con huevo, leche, azúcar, vainilla y alcohol (ron o brandy). 
+- **Pulque:**
+Bebida fermentada del agave, con una historia ancestral en México. 
+- **Charanda:**
+Aguardiente de caña de azúcar, típico de Michoacán. 
+- **Bacanora:**
+Aguardiente de agave, originario de Sonora. 
+- **Raicilla:**
+Otro aguardiente de agave, menos conocido, pero con sabores afrutados y florales. 
