@@ -26,3 +26,14 @@ Ensaladas:
 Ensalada griega (tomates, pepino, cebolla, aceitunas, queso feta), ensalada mediterránea (tomates, verduras, pan frito). 
 Meze:
 Surtido de aperitivos o entrantes, como hummus, baba ganoush, aceitunas, quesos, etc., común en muchos países mediterráneos. 
+
+## Bebidas Recomendadas
+
+Vino:
+Una bebida esencial en la dieta mediterránea, con una amplia gama de tipos y estilos según la región.
+Licores:
+Destacan el Ouzo (Grecia), Limoncello (Italia), y Orujo (España).
+Bebidas cítricas:
+Como el Agua de Valencia (España), hecha con zumo de naranja, cava, vodka y ginebra.
+Bebidas sin alcohol:
+La horchata de chufa (España), una bebida dulce y refrescante, y los refrescos. 
