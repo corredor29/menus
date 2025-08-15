@@ -23,4 +23,24 @@ Una especie de tortilla o pizza japonesa, hecha con harina, huevo y diversos ing
 -**Curry japonés**
 Arroz cubierto con una salsa de curry espesa, que puede incluir carne, verduras y especias. 
 -**Tonkatsu**
-Filete de cerdo empanizado y frito, generalmente acompañado de salsa tonkatsu y repollo rallado. 
+Filete de cerdo empanizado y frito, generalmente acompañado de salsa tonkatsu y repollo rallado.
+
+## Bebidas Recomendadas
+
+-**Sake**
+El sake, también conocido como nihonshu, es un vino de arroz fermentado y es una bebida tradicional japonesa muy popular, especialmente en celebraciones y comidas. 
+-**Cerveza**
+La cerveza es muy popular en Japón, y marcas como Kirin, Asahi y Sapporo son ampliamente consumidas. 
+-**Shochu**
+Similar al vodka, el shochu es una bebida destilada de arroz, patata dulce o cebada, y es otra opción alcohólica común. 
+-**Whisky**
+El whisky japonés, conocido por su calidad, también se disfruta en Japón, a menudo en comidas o cenas. 
+### Bebidas no alcohólicas:
+-**Té verde (Ocha)**
+El té verde es una bebida fundamental en la dieta japonesa, con variedades como Sencha, Bancha, Kukicha, Hojicha y Matcha. 
+-**Ramune**
+Esta bebida gaseosa es famosa por su botella con una canica en el interior y es una opción refrescante popular, especialmente en verano. 
+-**Calpis**
+Es una bebida no carbonatada a base de leche desnatada fermentada, con un sabor similar al yogurt pero más ligero. 
+-**Yakult**
+Esta bebida probiótica es conocida por sus beneficios para la salud intestinal y es muy popular en
