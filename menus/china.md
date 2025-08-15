@@ -16,3 +16,9 @@ Un plato picante de pollo con cacahuetes, verduras y chiles, originario de la re
 Fideos salteados con carne (pollo, cerdo o ternera) y verduras, una opción popular y versátil. 
 -**Dumplings**:
 Una variedad de empanadillas al vapor o fritas, rellenas de carne, verduras o mariscos. 
+
+## Bebidas Recomendadas
+
+-**Baijiu**: Un licor blanco destilado, la bebida alcohólica más consumida en China, con alto contenido de alcohol. 
+-**Cerveza Tsingtao**: Una cerveza china popular, especialmente en restaurantes y bares. 
+Vino de arroz fermentado (jiuniang): Una bebida tradicional con bajo contenido alcohólico y sabor floral. 
