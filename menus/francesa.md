@@ -28,4 +28,15 @@ Cócteles como el Kir, Kir Royale, French 75 y Sidecar son populares, utilizando
 Licores:
 El Pastis, Lillet, Guignolet, Byrrh, Suze, Dubonnet y Courvoisier son ejemplos de licores franceses populares, según Taste France Magazine y Univision. 
 Sidra:
-Especialmente popular en Normandía y Bretaña, elaborada a partir de zumo de manzana fermentado. 
+Especialmente popular en Normandía y Bretaña, elaborada a partir de zumo de manzana fermentado.
+
+## Consejos
+
+Explora mercados locales:
+Sumérgete en la cultura francesa visitando mercados donde encontrarás ingredientes frescos y productos locales. 
+Prueba platos tradicionales:
+Anímate a probar especialidades regionales y platos emblemáticos como el boeuf bourguignon, el coq au vin o el cassoulet. 
+Aprende técnicas básicas:
+Familiarízate con la preparación de salsas clásicas como la bechamel, la holandesa o la velouté, así como con el uso de hierbas aromáticas y especias. 
+Presta atención al ambiente:
+La comida francesa se disfruta en un ambiente relajado, por lo que puedes crear el ambiente adecuado con música suave, velas y una buena compañía. 
