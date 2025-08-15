@@ -24,3 +24,14 @@ Una sopa agria y picante del sur de la India, hecha con tomate, tamarindo y espe
 Un crepe fino y crujiente hecho de masa fermentada de arroz y lentejas, a menudo servido con chutney y sambar. 
 -**Pollo Tandoori**:
 Pollo marinado en yogur y especias, cocinado en un horno tandoor (de barro). 
+
+## Bebidas Recomendadas
+
+-**Chai**: Un té negro con leche y azúcar, a menudo con especias como cardamomo, canela, jengibre y clavo. 
+-**Lassi**: Una bebida refrescante hecha de yogur, que puede ser dulce (con frutas como mango) o salada (con especias como comino). 
+-**Nimbu Pani**: Limonada india, hecha con jugo de limón, agua, azúcar y sal. 
+-**Jal Jeera**: Refrescante bebida a base de agua, jugo de limón, comino, cilantro, menta y especias. 
+-**Thandai**: Bebida a base de leche, almendras y especias, a menudo consumida durante festivales. 
+-**Sharbat**: Jarabe de frutas diluido con agua. 
+-**Chaas**: Suero de leche, una bebida refrescante y digestiva. 
+-**Bebida de mango/Aam Panna**: Una bebida refrescante de mango, a veces con menta y especias. 
