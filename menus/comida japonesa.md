@@ -43,4 +43,19 @@ Esta bebida gaseosa es famosa por su botella con una canica en el interior y es 
 -**Calpis**
 Es una bebida no carbonatada a base de leche desnatada fermentada, con un sabor similar al yogurt pero más ligero. 
 -**Yakult**
-Esta bebida probiótica es conocida por sus beneficios para la salud intestinal y es muy popular en
+Esta bebida probiótica es conocida por sus beneficios para la salud intestinal y es muy popular en japon 
+
+## Consejos
+
+"Itadakimasu":
+Antes de empezar a comer, es costumbre decir "Itadakimasu", que significa "agradezco por la comida". 
+O-shibori:
+Te ofrecerán un o-shibori (toalla húmeda) para limpiarte las manos. Utilízalo antes y durante la comida. 
+-Palillos 
+-Sopa de fideos
+-Arroz y sopa
+-Durante la comida
+-No pasar comida de palillo a palillo
+-Comerlo todo
+-Bebidas
+-Salsa de soja
