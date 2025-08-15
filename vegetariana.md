@@ -26,3 +26,15 @@ Ejemplos: Zumo de naranja, jugo de zanahoria, batido de frutas.
 Smoothies:
 Bebidas más elaboradas que combinan frutas, verduras, líquidos (agua, leche vegetal) y a veces hielo, resultando en texturas más cremosas. 
 Ejemplos: Smoothie de espinacas y plátano, smoothie de frutos rojos. 
+
+
+## consejos
+
+Variedad es clave:
+Consume una amplia gama de frutas, verduras, legumbres, cereales integrales, frutos secos y semillas para obtener todos los nutrientes necesarios. 
+Proteínas vegetales:
+Asegúrate de incluir fuentes de proteína vegetal en cada comida. Algunas buenas opciones son las legumbres (lentejas, garbanzos, frijoles), tofu, tempeh y frutos secos. 
+Hierro:
+El hierro de origen vegetal es menos absorbible que el hierro de origen animal. Combina alimentos ricos en hierro con alimentos ricos en vitamina C para mejorar la absorción. Algunas buenas fuentes de hierro son las lentejas, las espinacas y los cereales fortificados. 
+Calcio:
+Consume suficientes productos lácteos (si eres lacto-ovo vegetariano) o alimentos fortificados con calcio, como la leche de soja o almendras. 
