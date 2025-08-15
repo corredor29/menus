@@ -38,3 +38,9 @@ Un licor de Cerdeña hecho con bayas de mirto, conocido por su sabor intenso y a
 Un cóctel refrescante y ligeramente amargo que generalmente se hace con Aperol o Campari, prosecco y soda. 
 - **Café italiano**
 Los italianos son famosos por su amor por el café, con muchas variantes como el espresso, el cappuccino y el macchiato. 
+## Consejos
+-Ingredientes frescos y de calidad
+-Aceite de oliva
+-Frutas y verduras
+-Pasta fresca
+-Simplicidad
