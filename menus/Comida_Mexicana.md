@@ -39,3 +39,12 @@ Aguardiente de caña de azúcar, típico de Michoacán.
 Aguardiente de agave, originario de Sonora. 
 - **Raicilla:**
 Otro aguardiente de agave, menos conocido, pero con sabores afrutados y florales. 
+## Consejos
+
+-Ingredientes auténticos
+-Técnicas culinarias
+-Opciones populares
+-Salsas y picante
+-Cuidado con los excesos
+-Hidratación
+-Autenticidad
