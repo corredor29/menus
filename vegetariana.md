@@ -14,3 +14,15 @@ Platos solo con lácteos (Lactovegetarianos):
 Se excluyen la carne, el pescado y los huevos, pero se incluyen lácteos como leche, queso y yogur. 
 Platos estrictamente vegetarianos (Veganos):
 Estos platos excluyen todos los productos de origen animal, incluyendo carne, pescado, lácteos, huevos y miel. 
+
+## Bebidas Recomendadas
+
+Bebidas Vegetales:
+Son alternativas a la leche de origen animal, elaboradas a partir de cereales, frutos secos, semillas o legumbres. 
+Ejemplos: Leche de almendras, leche de soja, leche de avena, leche de arroz. 
+Zumos y Jugos Naturales:
+Obtenidos directamente de frutas y verduras, ya sean exprimidos o licuados. 
+Ejemplos: Zumo de naranja, jugo de zanahoria, batido de frutas. 
+Smoothies:
+Bebidas más elaboradas que combinan frutas, verduras, líquidos (agua, leche vegetal) y a veces hielo, resultando en texturas más cremosas. 
+Ejemplos: Smoothie de espinacas y plátano, smoothie de frutos rojos. 
