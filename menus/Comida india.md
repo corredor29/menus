@@ -35,3 +35,10 @@ Pollo marinado en yogur y especias, cocinado en un horno tandoor (de barro).
 -**Sharbat**: Jarabe de frutas diluido con agua. 
 -**Chaas**: Suero de leche, una bebida refrescante y digestiva. 
 -**Bebida de mango/Aam Panna**: Una bebida refrescante de mango, a veces con menta y especias. 
+
+## Consejos
+
+-Especias
+-Dulces
+-Panes indios
+-Thali
