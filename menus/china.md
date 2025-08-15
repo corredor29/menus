@@ -22,3 +22,10 @@ Una variedad de empanadillas al vapor o fritas, rellenas de carne, verduras o ma
 -**Baijiu**: Un licor blanco destilado, la bebida alcohólica más consumida en China, con alto contenido de alcohol. 
 -**Cerveza Tsingtao**: Una cerveza china popular, especialmente en restaurantes y bares. 
 Vino de arroz fermentado (jiuniang): Una bebida tradicional con bajo contenido alcohólico y sabor floral. 
+
+## Consejos
+
+-Equilibrio de sabores y texturas
+-Usar los palillos
+-Modales en la mesa
+-Pedir recomendaciones
